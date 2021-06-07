@@ -47,7 +47,7 @@
                         <archive>
                             <manifest>
                                 <addClasspath>true</addClasspath>
-                                <mainClass>RetirementCalcApp</mainClass>
+                                <mainClass>AreaApp</mainClass>
                             </manifest>
                         </archive>
                     </configuration>
